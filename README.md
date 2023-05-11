@@ -1,2 +1,2 @@
-# meta-cognitive-compendium
+# Meta Cognitive Compendium
 List of Meta Cognitive Techniques &amp; Tools.
