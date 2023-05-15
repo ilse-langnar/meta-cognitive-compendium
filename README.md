@@ -12,3 +12,10 @@ Niklas Luhman
 
 ### Incremental Reading
 Supermemo.
+
+### Mind Maps
+Areas: Thinking, Referencing, Learning, Mood, Creativity, Perception
+
+### Questions
+Question can be seen as "Tools for Thinking".
+Areas: Thinking, Learning, Creativity, Perception
